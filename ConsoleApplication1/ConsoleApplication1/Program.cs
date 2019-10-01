@@ -12,11 +12,11 @@ namespace ConsoleApplication1
         {
 
         }
-       public static bool IsOdd(int n)
+       public static bool IsEven(int n)
         {
-            if (n % 2 == 0)
-                return false;
-            return true;
+            if (n % 2 != 0)
+                return true;
+            return false;
         }
     }
 }

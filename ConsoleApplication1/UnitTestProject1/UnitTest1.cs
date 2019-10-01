@@ -12,7 +12,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            bool res3 = Program.IsOdd(3);
+            bool res3 = Program.IsEven(3);
             Assert.AreEqual(true, res3);
         }
     }
