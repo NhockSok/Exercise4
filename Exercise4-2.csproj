@@ -1,0 +1,8 @@
+< Dự án  Sdk = " Microsoft.NET.Sdk " >
+
+  < Thuộc tính nhóm >
+    < OutputType > exe </ OutputType >
+    < TargetFramework > netcor Ứng dụng3.0 </ TargetFramework >
+  </ Thuộc tính nhóm >
+
+</ Dự án >
